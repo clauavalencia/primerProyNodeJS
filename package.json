@@ -1,0 +1,14 @@
+{
+  "name": "tarea_cvalencia",
+  "version": "1.0.0",
+  "description": "primer trabajo del curso node js",
+  "main": "Principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudia Valencia clau.avalencia@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
